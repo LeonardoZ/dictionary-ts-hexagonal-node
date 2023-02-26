@@ -17,9 +17,9 @@ Translation Dictionary App built with Node, Express, Typescript and Hexagonal Ar
 
 ## Product Backlog Building
 
-[Product Backlog Building](docs/product-backlog-building.png)
+![Product Backlog Building](docs/product-backlog-building.png)
 
 ## Hexagonal Architecture
 
-[Hexagonal architecture](docs/hexagonal-architecture.png)
+![Hexagonal architecture](docs/hexagonal-architecture.png)
 
