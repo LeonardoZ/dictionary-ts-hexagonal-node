@@ -11,9 +11,10 @@ Translation Dictionary App built with Node, Express, Typescript and Hexagonal Ar
 
 ## Commands
 
-- **dev**: `npm run dev`
+- **start dev**: `npm run start:dev`
 - **build**: `npm run build`
 - **start build**: `npm start`
+- **lint**: `npm run lint`
 
 ## Product Backlog Building
 
